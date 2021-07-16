@@ -1,4 +1,8 @@
-words = ['grapes', 'Mango', 'Apple', 'gun', 'fan', 'door', 'tv', 'mobile', 'laptop']
+words = ['grapes', 'mango', 'apple', 'gun', 'fan', 'door', 'tv', 'mobile', 'laptop','expert','wrong','master',
+'express','excellent','ridiculous','light','fetch','cheer','field','travel','attach','beneficial','puncture',
+'boast','match','effect','deserve','parcel','funny','yummy','glamorous','flower','pinch','expand','swing','defective',
+'accept','breath','attention','authority','challenge','character','check','charge','either','effect','perhaps','pick']
+
 
 
 def labelSlider():
